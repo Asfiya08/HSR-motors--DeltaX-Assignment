@@ -1,0 +1,21 @@
+Hello. This is Asfiya Tabassum.
+
+This Assignment consisted of a data analytical problem statement which had concerns with respect to working on the excel sheet. The excel sheet has completely been minimized. The project itself is python oriented one. This project consisted of a GUI.
+
+for the essential running of this application please do make the proper installations
+
+pip install streamlit
+pip install plotlyexpress
+pip install pandas
+pip install plotlyexpress
+pip install PysimpleGUI.
+
+While running the application there are 2 seperate filters to filter the product(Cars) by their "Manufacturer & Model" and "Invoice ID". 
+The pandas dataframes essentially help to sustain dataframes from excel sheets and process them. If possible multiple spreadsheets can also be concatinated to form one single chart.
+The webapp manages around 150 entries and is sorted by query method. They have many sorting and filtering algorithms also.
+A second addition to this web-app is the enquiry page. This enquiry page discloses the image of the car-brand along with other essential data by selecting it in the pandas dataframe and then processing it. The simple design in both helps even the novice in programming to understand the logic to the very best extent. The third is the feedback form which consists of my contact details.
+The data-analytic web application is purely based on python oriented mostly around streamlit. This webapp can be used in the future to get the essential data required at the same time process it. The app has a strong programming backbone which consists of various logics which are being considered while designing this thereby playing a crucial part. I have tried my best to keep the coding part as simple as I possibly can for easy understanding behind it.
+It also consists of a feedback form to help me understand my performance.
+
+Ensure to keep the screen @required resolution to have the best view. 
+Thanks and Best regards.
